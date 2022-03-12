@@ -1,0 +1,68 @@
+#jumbotron {
+    background-color: #eee;
+    margin-bottom: 30px;
+    padding: 120px 15px;
+}
+h1,h2,h3,h4 {
+    padding: 10px;
+    text-align: center;
+}
+#about {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+#description {
+    padding: 15px;
+}
+#anggota {
+    background-color: #aaa;
+    padding: 15px;
+}
+#daftar-anggota {
+    padding: 10px;
+    text-align: center;
+}
+.anggota {
+    display: inline-block;
+    max-width: 150px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    background-color: #444;
+}
+.foto {
+    margin: 0 auto;
+}
+.username {
+    margin: 10px 0;
+    color: #fff;
+}
+.link {
+    background-color: #fff;
+}
+.link a:link, .link a:visited {
+    display: block;
+    padding: 8px;
+    color: #333;
+}
+.link:hover {
+    background-color: #ddd;
+}
+
+@media only screen and (max-width:768px){
+    #jumbotron {
+        padding: 60px 15px;
+    }
+    .anggota {
+        max-width: 40%;
+    }
+}
+@media only screen and (max-width:360px){
+    #jumbotron {
+        padding: 30px 15px;
+    }
+    .anggota {
+        max-width: 100%;
+    }
+}

@@ -1,7 +1,7 @@
-# Tim A30
+# Tim A40
 Daftar profil anggota tim FGA Fullstack Ruby DTS 2022
 
-## Demo
+## Daftar Anggota
 ```sh
 Budiyanto
 yourname
@@ -11,4 +11,4 @@ yourname
 ```
 
 ## Demo
-https://
+https://simopunkc.github.io/tim-dts-fga-2022/
