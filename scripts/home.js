@@ -7,13 +7,13 @@ const list_anggota = [
     },
     {
         foto: "assets/blank.png",
-        nama: "Dwi Ilham Maulana",
-        link: "dwi-ilham-maulana.html"
+        nama: "Andi Saeful Rohman",
+        link: "andisaefulrohman.html"
     },
     {
         foto: "assets/blank.png",
-        nama: "Budiyanto",
-        link: "budi.html"
+        nama: "Dwi Ilham Maulana",
+        link: "dwi-ilham-maulana.html"
     },
     {
         foto: "assets/blank.png",
