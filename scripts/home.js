@@ -26,7 +26,7 @@ const list_anggota = [
         link: "budi.html"
     },
     {
-        foto: "assets/blank.png",
+        foto: "https://www.ligaolahraga.com/storage/images/news/2022/01/10/steven-gerrard-ingatkan-mu-kami-datang-untuk-raih-kemenangan.jpg",
         nama: "Fahmi Al Azhar",
         link: "Fahmi.html"
     }
