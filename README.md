@@ -6,7 +6,7 @@ Daftar profil anggota tim FGA Fullstack Ruby DTS 2022
 Budiyanto
 Andi Saeful Rohman
 Fahmi Al Azhar
-yourname
+Abdurrahman Majid
 yourname
 ```
 
