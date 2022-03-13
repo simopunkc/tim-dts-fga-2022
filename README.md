@@ -4,7 +4,7 @@ Daftar profil anggota tim FGA Fullstack Ruby DTS 2022
 ## Daftar Anggota
 ```sh
 Budiyanto
-yourname
+Andi Saeful Rohman
 yourname
 yourname
 yourname
