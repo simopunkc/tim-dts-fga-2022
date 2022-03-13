@@ -24,6 +24,11 @@ const list_anggota = [
         foto: "assets/blank.png",
         nama: "Budiyanto",
         link: "budi.html"
+    },
+    {
+        foto: "assets/blank.png",
+        nama: "Fahmi Al Azhar",
+        link: "Fahmi.html"
     }
 ]
 list_anggota.map( (v) =>{
