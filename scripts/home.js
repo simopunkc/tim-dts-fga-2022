@@ -17,8 +17,8 @@ const list_anggota = [
     },
     {
         foto: "assets/blank.png",
-        nama: "Budiyanto",
-        link: "budi.html"
+        nama: "Abdurrahman Majid",
+        link: "majid.html"
     },
     {
         foto: "assets/blank.png",
