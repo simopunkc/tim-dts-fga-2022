@@ -11,4 +11,4 @@ yourname
 ```
 
 ## Demo
-https://simopunkc.github.io/tim-dts-fga-2022/
+https://simopunkc.github.io/tim-dts-fga-2022/index.html
