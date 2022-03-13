@@ -7,8 +7,8 @@ const list_anggota = [
     },
     {
         foto: "assets/blank.png",
-        nama: "Budiyanto",
-        link: "budi.html"
+        nama: "Andi Saeful Rohman",
+        link: "andisaefulrohman.html"
     },
     {
         foto: "assets/blank.png",
